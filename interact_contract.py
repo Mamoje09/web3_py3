@@ -12,7 +12,7 @@ if not provider or not wallet:
 
 w3 = Web3(Web3.HTTPProvider(provider))
 
-# Example: USDC Mainnet
+# USDC Mainnet
 contract_address = Web3.to_checksum_address("0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48")
 abi = [
     {
