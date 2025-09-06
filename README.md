@@ -16,14 +16,6 @@ I’m a backend developer expanding into Web3. This starter toolkit shows how to
 
 ## 📂 Project Structure
 
-web3_py3/
-├── wallet_balance.py # Check ETH balance of a wallet
-├── token_price.py # Get live ETH price (CoinGecko API)
-├── interact_contract.py # Interact with ERC-20 contracts (USDC example)
-├── requirements.txt # Dependencies
-├── .env # Local environment variables
-└── screenshots/ # Demo outputs
-
 2. Create a virtual environment
    python3 -m venv .venv
    source .venv/bin/activate   # Linux/Mac
