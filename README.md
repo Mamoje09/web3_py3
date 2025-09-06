@@ -34,6 +34,7 @@ I’m a backend developer expanding into Web3. This starter toolkit shows how to
    python interact_contract.py
 
 
+
 📸 Demo Output
 
 **Wallet Balance Script**
@@ -46,6 +47,9 @@ I’m a backend developer expanding into Web3. This starter toolkit shows how to
 ![USDC Balance](screenshots/interact_contract.png)
 
 
+
+
+
 🛠 Roadmap
 
 Add more ERC-20 contract
@@ -53,6 +57,9 @@ Add more ERC-20 contract
 Fetch ERC-721 (NFT) balances
 
 Build simple dApps using Python backends
+
+
+
 
 
 📬 About Me
