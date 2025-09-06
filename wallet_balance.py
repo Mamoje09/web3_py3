@@ -1,6 +1,6 @@
 
 ### `wallet_balance.py`
-```python
+
 import os
 from web3 import Web3
 from dotenv import load_dotenv
